@@ -11,6 +11,7 @@ keywords = [
     "blockchain",
     "decentralized",
     "zero-knowledge"
+    
 ]
 categories = [ "cryptography", "operating-systems" ]
 license = "GPL-3.0"
